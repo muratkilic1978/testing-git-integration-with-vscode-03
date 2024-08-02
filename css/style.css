@@ -86,3 +86,12 @@ ul.kontakt-items {
     align-items: flex-start;
     padding: 0px;
 }
+
+ul.it-uddannelser-items {
+    font-size: 1.14rem;
+    list-style-type: none;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    padding: 0px;
+}
